@@ -1,0 +1,1081 @@
+<resources>
+    <string name="app_name" translatable="false">소울메이트</string>
+    <string name="app_version" translatable="false">6.2</string>
+    <string name="app_year" translatable="false">2022년</string>
+    <string name="app_copyright" translatable="false">papasong.link</string>
+    <string name="app_email" translatable="false">papa@papasong.link</string>
+    <string name="app_site" translatable="false">https://papasong.link</string>
+
+    <string name="app_lang_code">ko</string>
+
+    <!-- Facebook App Id -->
+
+    <string name="facebook_app_id" translatable="false">444213741159430</string>
+    <string name="facebook_client_token" translatable="false">ff1ef76ffce883dc7881a3496da4ee8e</string>
+
+    <!-- fb + Facebook App Id, example (you facebook app id: 123456): fb123456 -->
+
+    <string name="fb_login_protocol_scheme" translatable="false">fb345345345345</string>
+
+    <!-- AdMob App Id -->
+
+    <!-- DEFAULT Admob APP ID: ca-app-pub-3940256099942544~3347511713 -->
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="action_login">로그인</string>
+    <string name="action_signup">가입하기</string>
+    <string name="action_logout">로그 아웃</string>
+    <string name="action_settings">설정</string>
+    <string name="action_continue">계속하다</string>
+    <string name="action_unblock">차단 해제</string>
+    <string name="action_block">차단하다</string>
+    <string name="action_about">에 대한</string>
+    <string name="action_ok">확인</string>
+    <string name="action_yes">예</string>
+    <string name="action_no">아니</string>
+    <string name="action_copy">복사</string>
+    <string name="action_save">저장</string>
+    <string name="action_send">보내다</string>
+    <string name="action_open">열려 있는</string>
+    <string name="action_edit">편집</string>
+    <string name="action_reply">회신하다</string>
+    <string name="action_refresh">업데이트</string>
+    <string name="action_report">보고서</string>
+    <string name="action_remove">삭제</string>
+    <string name="action_remove_chat">채팅 삭제</string>
+    <string name="action_deactivate">비활성화</string>
+    <string name="action_create">만들다</string>
+    <string name="action_cancel">취소</string>
+    <string name="action_close">닫다</string>
+    <string name="action_more">더 로드</string>
+    <string name="action_search">검색</string>
+    <string name="action_retry">다시 해 보다</string>
+    <string name="action_turn_on">켜다</string>
+    <string name="action_turn_off">끄다</string>
+    <string name="action_select_birth">생일</string>
+    <string name="action_camera">카메라</string>
+    <string name="action_gallery">갤러리에서 선택</string>
+    <string name="action_copy_url">링크 복사</string>
+    <string name="action_open_url">브라우저에서 열기</string>
+    <string name="settings_allow_messages">누구에게나 메시지 받기</string>
+    <string name="settings_allow_messages_summary">팔로우하지 않더라도 모든 사용자로부터 쪽지를 받을 수 있습니다.</string>
+    <string name="action_enable">할 수 있게 하다</string>
+    <string name="action_accept">수용하다</string>
+    <string name="action_reject">거부하다</string>
+    <string name="action_pending">보류 중&#8230;</string>
+    <string name="action_add_to_friends">친구로 추가하기</string>
+    <string name="action_remove_from_friends">친구에서 제거</string>
+
+    <string name="action_buy_credits">더 많은 크레딧 받기</string>
+
+    <string name="action_follow">팔로우</string>
+    <string name="action_unfollow">언팔로우</string>
+    <string name="action_new">새로운</string>
+    <string name="action_profile_edit_photo">사진 수정</string>
+    <string name="action_profile_edit_cover">표지 수정</string>
+    <string name="action_profile_edit">편집하기</string>
+
+    <string name="action_login_with_facebook">페이스북으로 로그인</string>
+    <string name="action_signup_with_facebook">페이스북으로 가입하기</string>
+    <string name="action_connect_with_facebook">페이스 북과 연동하세요</string>
+    <string name="action_remove_connection">연결 제거</string>
+    <string name="action_regular_signup">일반 등록 양식으로 돌아가기</string>
+    <string name="action_forgot_password">비밀번호를 잊으 셨나요?</string>
+
+    <string name="label_profile_report_0">스팸</string>
+    <string name="label_profile_report_1">증오심 표현 또는 폭력</string>
+    <string name="label_profile_report_2">과도한 노출 또는 음란물</string>
+    <string name="label_profile_report_3">가짜 프로필</string>
+    <string name="label_profile_report_4">불법 복제</string>
+
+    <string name="label_gender_select_title">성별 선택</string>
+    <string name="label_age">나이</string>
+    <string name="label_sex">성별</string>
+    <string name="label_male">남성</string>
+    <string name="label_female">여성</string>
+    <string name="label_sex_undefined">성별이 설정되지 않음</string>
+    <string name="label_sex_male">성별 남성</string>
+    <string name="label_sex_female">성별 여성</string>
+
+    <string name="label_profile_information">프로필 정보</string>
+    <string name="label_profile_activity">프로필 활동</string>
+    <string name="label_profile_join">가입 날짜</string>
+
+    <string name="placeholder_password">비밀번호</string>
+    <string name="placeholder_login">사용자 이름</string>
+    <string name="placeholder_fullname">성명</string>
+    <string name="placeholder_location">위치</string>
+    <string name="placeholder_facebook_page">페이스북 페이지</string>
+    <string name="placeholder_instagram_page">인스타그램 페이지</string>
+    <string name="placeholder_bio">바이오</string>
+    <string name="placeholder_email">이메일</string>
+    <string name="placeholder_subject">주제</string>
+    <string name="placeholder_support_detail">무엇에 대해 문의하고 있습니까?</string>
+    <string name="placeholder_current_password">현재 비밀번호</string>
+    <string name="placeholder_new_password">새 비밀번호</string>
+    <string name="placeholder_item_category">범주</string>
+    <string name="placeholder_item_title">제목</string>
+    <string name="placeholder_item_login">사용자 이름, 이메일 또는 전화번호</string>
+    <string name="placeholder_item_passw">비밀번호</string>
+    <string name="placeholder_item_url">웹사이트</string>
+    <string name="placeholder_item_description">설명</string>
+    <string name="placeholder_photo">게시물에 댓글 추가&#8230;</string>
+    <string name="placeholder_gift">선물용 댓글 추가&#8230;</string>
+    <string name="placeholder_search">검색</string>
+    <string name="placeholder_comment">댓글 입력&#8230;</string>
+    <string name="placeholder_message">메시지 입력&#8230;</string>
+
+    <string name="msg_loading">기다려 주십시오&#8230;</string>
+    <string name="msg_loading_2">로드 중. 기다려 주십시오&#8230;</string>
+    <string name="msg_network_error">인터넷 연결을 확인하세요</string>
+    <string name="msg_account_blocked">이 계정은 중재자에 의해 차단되었습니다.</string>
+    <string name="msg_copied_to_clipboard">클립보드에 복사했습니다.</string>
+    <string name="msg_enter_item">글을 쓰거나 사진을 첨부해주세요.</string>
+    <string name="msg_enter_msg">글을 쓰거나 사진을 첨부해주세요.</string>
+    <string name="msg_send_msg_error">사용자에게 메시지를 보낼 수 없습니다.</string>
+    <string name="msg_gift_sent">선물이 성공적으로 발송되었습니다.</string>
+    <string name="msg_item_saved">항목이 성공적으로 저장되었습니다.</string>
+    <string name="msg_item_added">항목이 성공적으로 추가되었습니다.</string>
+    <string name="msg_password_changed">비밀번호가 성공적으로 변경되었습니다</string>
+    <string name="msg_settings_saved">설정이 성공적으로 저장되었습니다.</string>
+    <string name="msg_ticket_send_success">귀하의 요청이 수락되었습니다! 요청에 표시된 이메일에 대한 응답을 받게 됩니다.</string>
+    <string name="msg_password_reset_link_sent">비밀번호 재설정 링크가 포함된 메시지가 이메일로 전송되었습니다.</string>
+    <string name="msg_no_such_user_in_bd">데이터베이스에 해당 사용자가 없습니다.</string>
+    <string name="msg_connect_to_facebook_success">Facebook 계정과 응용 프로그램을 성공적으로 연결했습니다!</string>
+    <string name="msg_connect_to_facebook_error">귀하의 Facebook 계정은 이미 다른 계정과 연결되어 있습니다.</string>
+    <string name="msg_connect_to_facebook_removed">제거된 Facebook 계정으로 연결하세요.</string>
+    <string name="msg_comment_has_been_added">댓글이 추가되었습니다.</string>
+    <string name="msg_chat_has_been_removed">채팅이 삭제되었습니다.</string>
+    <string name="msg_profile_removed_from_blacklist">사용자가 차단 목록에서 제거됩니다.</string>
+    <string name="msg_profile_link_copied">프로필 링크가 클립보드에 복사되었습니다.</string>
+    <string name="msg_item_link_copied">항목 링크가 클립보드에 복사되었습니다.</string>
+    <string name="msg_profile_added_to_blacklist">사용자가 차단 목록에 추가됩니다.</string>
+    <string name="msg_success_purchase">구매 완료! 축하합니다!</string>
+    <string name="msg_success_ghost_mode">"고스트 모드"가 성공적으로 활성화되었습니다!</string>
+    <string name="msg_success_verified_badge">"인증된 배지"가 성공적으로 활성화되었습니다!</string>
+    <string name="msg_success_disable_ads">광고가 꺼졌습니다!</string>
+
+    <string name="label_ghost_mode_enabled">고스트 모드 활성화!</string>
+    <string name="label_verified_badge_enabled">인증 배지가 활성화되었습니다!</string>
+    <string name="label_disable_ads_enabled">광고가 꺼졌습니다!</string>
+
+    <string name="error_signin">잘못된 사용자 이름 또는 비밀번호</string>
+    <string name="error_internet_connection">인터넷에 연결되지 않음</string>
+    <string name="error_data_loading">데이터를 로드할 때 오류가 발생했습니다. 네트워크 연결을 확인하십시오.</string>
+    <string name="error_field_empty">필수 필드가 비어 있습니다.</string>
+    <string name="error_wrong_format">잘못된 형식</string>
+    <string name="error_small_password">최소 6자</string>
+    <string name="error_small_username">최소 5자</string>
+    <string name="error_small_fullname">최소 2자</string>
+    <string name="error_login_taken">이미 사용중인 이름입니다</string>
+    <string name="error_email_taken">이 이메일을 가진 사용자는 이미 등록되어 있습니다</string>
+    <string name="error_password">유효하지 않은 비밀번호.</string>
+    <string name="error_email">이메일이 잘못되었습니다.</string>
+    <string name="error_credits">크레딧이 부족합니다!</string>
+    <string name="error_action">이 사용자는 당신이 그것을 하는 것을 금지했습니다!</string>
+    <string name="error_no_friend">이 사용자는 친구에게서만 메시지를 받습니다!</string>
+
+    <string name="label_gcm_like">당신은 새로운 좋아합니다.</string>
+    <string name="label_gcm_profile_like">새로운 프로필이 있습니다.</string>
+    <string name="label_gcm_comment">새로운 댓글이 있습니다.</string>
+    <string name="label_gcm_follower">새로운 팔로워가 있습니다.</string>
+    <string name="label_gcm_friend_request">새로운 친구 요청이 있습니다.</string>
+    <string name="label_gcm_friend_request_accepted">친구 요청이 수락되었습니다.</string>
+    <string name="label_gcm_friend">새로운 친구가 생겼습니다.</string>
+    <string name="label_gcm_message">새 메시지가 있습니다.</string>
+    <string name="label_gcm_gift">새로운 선물이 있습니다.</string>
+    <string name="label_gcm_comment_reply">댓글에 대한 새로운 답변이 있습니다.</string>
+
+    <string name="label_authorization_via_facebook">페이스북을 통한 승인.</string>
+    <string name="label_account_connected_to_facebook">페이스북과 연결</string>
+    <string name="label_account_connect_to_facebook">이 계정을 소셜 네트워크 계정과 연결</string>
+    <string name="label_empty_list">목록이 비어 있습니다.</string>
+    <string name="label_nearby">가까운</string>
+
+    <string name="age_item_from_1" translatable="false">13</string>
+    <string name="age_item_from_2" translatable="false">18</string>
+    <string name="age_item_from_3" translatable="false">25</string>
+    <string name="age_item_from_4" translatable="false">30</string>
+    <string name="age_item_from_5" translatable="false">35</string>
+    <string name="age_item_from_6" translatable="false">40</string>
+    <string name="age_item_from_7" translatable="false">45</string>
+
+    <string name="age_item_to_1" translatable="false">20</string>
+    <string name="age_item_to_2" translatable="false">27</string>
+    <string name="age_item_to_3" translatable="false">38</string>
+    <string name="age_item_to_4" translatable="false">43</string>
+    <string name="age_item_to_5" translatable="false">50</string>
+    <string name="age_item_to_6" translatable="false">70</string>
+    <string name="age_item_to_7">중요하지</string>
+
+    <string name="label_location">위치</string>
+    <string name="label_block">차단하다</string>
+    <string name="label_block_msg">에게 선물을 보내거나 메시지를 보낼 수 없으며 에서 보낸 알림도 볼 수 없습니다.</string>
+    <string name="label_delete">삭제</string>
+    <string name="label_delete_msg">이 항목을 삭제하시겠습니까?</string>
+    <string name="label_delete_photo_msg">이 사진을 삭제하시겠습니까?</string>
+    <string name="label_delete_comment">이 댓글을 삭제하시겠습니까?</string>
+    <string name="label_report_dialog_title">악용사례 신고</string>
+    <string name="label_last_message_image">영상</string>
+    <string name="label_profile_reported">프로필이 보고되었습니다.</string>
+    <string name="label_item_reported">항목이 보고되었습니다.</string>
+    <string name="label_photo_reported">사진보고됨.</string>
+    <string name="label_select_img">이미지 선택</string>
+    <string name="label_delete_img">이미지를 삭제하시겠습니까?</string>
+    <string name="label_account_disabled">계정 차단됨</string>
+    <string name="label_search_start_screen_msg">사용자 이름, 이름, 이메일 또는 위치로 사람을 찾습니다.</string>
+    <string name="label_search_results">사람들을 찾아라:</string>
+    <string name="label_search_results_error">검색 결과가 없습니다</string>
+    <string name="label_likes_item">당신의 아이템을 좋아합니다.</string>
+    <string name="label_likes_profile">당신의 프로필을 좋아합니다.</string>
+    <string name="label_comment_added">새로운 댓글을 추가했습니다.</string>
+    <string name="label_comment_reply_added">귀하의 의견에 답변했습니다.</string>
+    <string name="label_follow_you">당신을 따랐다.</string>
+    <string name="label_friend_request_added">친구에게 요청을 보냈습니다.</string>
+    <string name="label_gift_added">선물을 했다.</string>
+    <string name="label_share_dialog_title">공유</string>
+    <string name="label_public">공공</string>
+    <string name="label_friend_request_dialog_title">친구 요청</string>
+    <string name="label_search_settings_dialog_title">검색 설정</string>
+    <string name="label_activity">마지막 활성</string>
+
+    <string name="label_photos">사진</string>
+    <string name="label_gifts">선물</string>
+    <string name="label_followers">팔로워</string>
+    <string name="label_followings">팔로잉</string>
+    <string name="label_friends">친구</string>
+    <string name="label_likes">좋아요</string>
+    <string name="label_online">온라인</string>
+    <string name="label_offline">오프라인</string>
+
+    <string name="label_to">에게</string>
+    <string name="label_from">~에서</string>
+    <string name="label_between">~ 사이</string>
+
+    <string name="signup_label_1">가입을 클릭하면 당사의</string>
+    <string name="signup_label_terms_and_policies">약관 및 정책</string>
+
+    <string name="label_credits">크레딧</string>
+    <string name="label_credits_desc">크레딧은 업그레이드 및 기타 기능을 활성화하는 데 사용할 수 있는 가상 통화입니다.</string>
+
+    <string name="label_upgrades_ghost_mode">스텔스 모드</string>
+    <string name="label_upgrades_ghost_mode_desc">익명으로 사용자 프로필을 탐색합니다. 사용자는 프로필을 방문할 때마다 알림을 받지 않습니다.</string>
+
+    <string name="label_upgrades_verified_badge">인증 배지</string>
+    <string name="label_upgrades_verified_badge_desc">이 멋진 배지로 다른 사람들에게 당신이 합법적인 사용자임을 보여주세요</string>
+
+    <string name="label_upgrades_disable_ads">광고 비활성화</string>
+    <string name="label_upgrades_disable_ads_desc">광고를 보는 것이 지겹습니까? 표시되지 않도록 비활성화하십시오!</string>
+
+    <string name="settings_header_general">일반적인</string>
+    <string name="settings_header_others">기타</string>
+    <string name="settings_header_about">에 대한</string>
+    <string name="settings_header_notifications">공고</string>
+
+    <string name="settings_notifications_likes">좋아요</string>
+    <string name="settings_notifications_comments">코멘트</string>
+    <string name="settings_notifications_followers">팔로워</string>
+    <string name="settings_notifications_friends">친구 요청</string>
+    <string name="settings_notifications_messages">개인 메시지</string>
+    <string name="settings_notifications_gifts">선물</string>
+    <string name="settings_notifications_comment_reply">댓글에 답장</string>
+
+    <string name="settings_version">버전</string>
+    <string name="settings_logout">로그 아웃</string>
+    <string name="settings_balance">균형</string>
+    <string name="settings_balance_summary">크레딧 구매</string>
+    <string name="settings_copyright_info">저작권 정보</string>
+    <string name="settings_contact_us">문의하기</string>
+    <string name="settings_contact_us_summary">문제 보고</string>
+    <string name="settings_web_site">우리 웹사이트</string>
+    <string name="settings_view_blocked_list">차단 목록 보기</string>
+    <string name="settings_deactivate_account">계정 비활성화</string>
+    <string name="settings_thanks">감사의 말</string>
+    <string name="settings_terms">이용약관</string>
+    <string name="settings_change_password">비밀번호 변경</string>
+    <string name="settings_services">서비스</string>
+    <string name="settings_notifications">푸시 알림</string>
+    <string name="settings_services_summary">소셜 네트워크 계정과 연결</string>
+    <string name="settings_account_deactivation">계정 비활성화를 진행하면 절대돌아가. 다시 돌아가려면 새 계정을 만들어야 합니다.</string>
+
+    <string name="settings_file" translatable="false">계정</string>
+    <string name="settings_account_id" translatable="false">계정 ID</string>
+    <string name="settings_account_username" translatable="false">계정_사용자 이름</string>
+    <string name="settings_account_access_token" translatable="false">access_token</string>
+
+    <string name="page_1">프로필</string>
+    <string name="page_3">친구</string>
+    <string name="page_4">메시지</string>
+    <string name="page_5">알림</string>
+    <string name="page_6">프로필 게스트</string>
+    <string name="page_7">프로필 좋아요</string>
+    <string name="page_8">좋아요</string>
+    <string name="page_9">업그레이드</string>
+    <string name="page_10">근처 사람들</string>
+    <string name="page_11">검색</string>
+    <string name="page_12">설정</string>
+
+    <string name="account_relationship_status">관계 상태</string>
+    <string name="account_political_views">정치적 견해</string>
+    <string name="account_world_view">세계관</string>
+    <string name="account_personal_priority">개인 우선 순위</string>
+    <string name="account_important_in_others">다른 사람에게 중요한</string>
+    <string name="account_smoking_views">흡연에 대한 견해</string>
+    <string name="account_alcohol_views">술에 대한 견해</string>
+    <string name="account_you_looking">무엇을 찾고 계신가요?</string>
+    <string name="account_you_like">어떤 성별을 좋아하세요?</string>
+
+    <string name="account_profile_looking">찾고있는</string>
+    <string name="account_profile_like">성별 좋아</string>
+
+    <string name="account_you_looking_dialog">당신의 목표</string>
+    <string name="account_you_like_dialog">선호 성별</string>
+
+    <string name="relationship_status_0">미선택</string>
+    <string name="relationship_status_1">싱글</string>
+    <string name="relationship_status_2">관계</string>
+    <string name="relationship_status_3">약혼</string>
+    <string name="relationship_status_4">기혼</string>
+    <string name="relationship_status_5">사랑</string>
+    <string name="relationship_status_6">불확실</string>
+    <string name="relationship_status_7">적극적으로 구함</string>
+
+    <string name="political_views_0">미선택</string>
+    <string name="political_views_1">냉담</string>
+    <string name="political_views_2">공산주의자</string>
+    <string name="political_views_3">사회주의자</string>
+    <string name="political_views_4">중도</string>
+    <string name="political_views_5">진보</string>
+    <string name="political_views_6">보수</string>
+    <string name="political_views_7">군주주의자</string>
+    <string name="political_views_8">극단적 보수주의</string>
+    <string name="political_views_9">자유주의자</string>
+
+    <string name="world_view_0">미선택</string>
+    <string name="world_view_1">유태교</string>
+    <string name="world_view_2">정설</string>
+    <string name="world_view_3">카톨릭교</string>
+    <string name="world_view_4">신교</string>
+    <string name="world_view_5">이슬람교</string>
+    <string name="world_view_6">불교</string>
+    <string name="world_view_7">유도</string>
+    <string name="world_view_8">인본주의</string>
+    <string name="world_view_9">파시즘</string>
+
+    <string name="personal_priority_0">미선택</string>
+    <string name="personal_priority_1">가족 및 어린이</string>
+    <string name="personal_priority_2">경력과 돈</string>
+    <string name="personal_priority_3">엔터테인먼트 및 레저</string>
+    <string name="personal_priority_4">과학 및 연구</string>
+    <string name="personal_priority_5">세계와 자연</string>
+    <string name="personal_priority_6">개인 개발</string>
+    <string name="personal_priority_7">아름다움과 예술</string>
+    <string name="personal_priority_8">명성과 영향력</string>
+
+    <string name="important_in_others_0">미선택</string>
+    <string name="important_in_others_1">지성과 창의성</string>
+    <string name="important_in_others_2">친절과 정직</string>
+    <string name="important_in_others_3">건강과 아름다움</string>
+    <string name="important_in_others_4">부와 권력</string>
+    <string name="important_in_others_5">용기와 끈기</string>
+    <string name="important_in_others_6">유머와 삶에 대한 사랑</string>
+
+    <string name="smoking_views_0">미선택</string>
+    <string name="smoking_views_1">매우 부정적</string>
+    <string name="smoking_views_2">부정적</string>
+    <string name="smoking_views_3">타협</string>
+    <string name="smoking_views_4">중립적</string>
+    <string name="smoking_views_5">긍정적</string>
+
+    <string name="alcohol_views_0">미선택</string>
+    <string name="alcohol_views_1">매우 부정적</string>
+    <string name="alcohol_views_2">부정적</string>
+    <string name="alcohol_views_3">타협</string>
+    <string name="alcohol_views_4">중립적</string>
+    <string name="alcohol_views_5">긍정적</string>
+
+    <string name="you_looking_0">미선택</string>
+    <string name="you_looking_1">우정</string>
+    <string name="you_looking_2">관계</string>
+    <string name="you_looking_3">썸</string>
+
+    <string name="you_like_0">미선택</string>
+    <string name="you_like_1">나는 여자에게 관심이 있다</string>
+    <string name="you_like_2">나는 남자에게 관심이 있다</string>
+
+    <string name="profile_like_1">여성에 관심</string>
+    <string name="profile_like_2">남자에 관심</string>
+
+
+    <string name="drawer_open">오픈</string>
+    <string name="drawer_close">크로즈</string>
+
+    <string name="title_activity_login">로그인</string>
+    <string name="title_activity_signup">가입</string>
+    <string name="title_activity_main">스트림</string>
+    <string name="title_activity_recovery">비밀번호 복구</string>
+    <string name="title_activity_settings">설정</string>
+    <string name="title_activity_web_view">웹 보기</string>
+    <string name="title_activity_change_password">비밀번호 변경</string>
+    <string name="title_activity_services">서비스</string>
+    <string name="title_activity_new_item">새로운 물품</string>
+    <string name="title_activity_new_photo">새로운 사진</string>
+    <string name="title_activity_galery">프로필 사진</string>
+    <string name="title_activity_view_item">아이템</string>
+    <string name="title_activity_profile">프로필</string>
+
+    <string name="hello_world" translatable="false">안녕하세요!</string>
+    <string name="title_activity_search">검색</string>
+    <string name="title_activity_notifications">알림</string>
+    <string name="title_activity_photo_view">사진</string>
+    <string name="title_activity_hashtags">해시태그</string>
+    <string name="title_activity_followings">팔로잉</string>
+    <string name="title_activity_followers">팔로워</string>
+    <string name="title_activity_feeds">피드</string>
+    <string name="title_activity_likes">프로필 좋아요</string>
+    <string name="title_activity_account_settings">설정</string>
+    <string name="title_activity_report">보고서</string>
+    <string name="title_activity_pro" translatable="false">프로액티비티</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">안녕하세요?</string>
+    <string name="title_activity_black_list">차단 목록</string>
+    <string name="title_activity_dialogs">메시지</string>
+    <string name="title_activity_chat">채팅</string>
+    <string name="title_activity_notifications_settings">푸시 알림</string>
+    <string name="title_activity_favorites">즐겨찾기</string>
+    <string name="title_activity_support">문의하기</string>
+    <string name="title_activity_location">위치</string>
+    <string name="title_activity_edit_item">편집하기</string>
+    <string name="title_activity_deactivate">계정 비활성화</string>
+    <string name="title_activity_select_gift">선물 선택</string>
+    <string name="title_activity_send_gift">선물을 보내다</string>
+    <string name="title_activity_gifts">프로필 선물</string>
+    <string name="title_activity_friends">프로필 친구</string>
+    <string name="title_activity_balance">크레딧 구매</string>
+    <string name="title_activity_nearby">근처 사람들</string>
+
+    <!-- for version 1.1 -->
+
+    <string name="title_dialog_nearby">거리 선택</string>
+
+    <string name="dialog_nearby_0">80km</string>
+    <string name="dialog_nearby_1">160km</string>
+    <string name="dialog_nearby_2">400km</string>
+    <string name="dialog_nearby_3">800km</string>
+    <string name="dialog_nearby_4">1,600km</string>
+
+
+    <!-- for version 1.2 -->
+
+    <string name="label_profile_birth">생일</string>
+    <string name="label_profile_allow_show_birth">프로필에 생년월일 표시</string>
+    <string name="action_open_settings"><u>위치 설정</u></string>
+    <string name="action_set_location">예, 여기가 내 위치입니다.</string>
+    <string name="action_detail">상세 내용</string>
+    <string name="msg_location_error">위치를 확인할 수 없습니다.</string>
+
+    <string name="label_location_prompt">위치를 사용하여 다른 기능을 사용하려면 내 위치에 대한 액세스를 허용하세요.</string>
+
+    <!-- for version 1.3 -->
+
+    <string name="settings_account_lat" translatable="false">위도</string>
+    <string name="settings_account_lng" translatable="false">lng</string>
+
+    <!-- for version 1.4 -->
+
+    <string name="action_buy">크레딧 구매</string>
+    <string name="action_credits_name">크레딧</string>
+    <string name="action_add_photo">지금 사진을 추가할 수 있습니다!</string>
+
+    <!-- added for version 1.5 -->
+
+    <string name="action_buy_sms">SMS로 크레딧 구매</string>
+    <string name="action_buy_iap1_google_pay">Google을 사용하여 30크레딧($1) 구매</string>
+    <string name="action_buy_iap2_google_pay">Google을 사용하여 70크레딧($2) 구매</string>
+    <string name="action_buy_iap3_google_pay">Google을 사용하여 120크레딧($3) 구매</string>
+
+    <string name="settings_account_allow_messages_gcm" translatable="false">allow_messages_gcm</string>
+
+    <!-- added for version 1.9 -->
+
+    <string name="title_activity_view_image">이미지</string>
+    <string name="label_image_for_public">공공</string>
+    <string name="label_image_for_friends">친구</string>
+    <string name="title_activity_scrolling" translatable="false">ScrollingActivity</string>
+
+    <!-- added for version 2.0 -->
+
+    <string name="title_activity_likers">좋아하는 사람들</string>
+    <string name="label_likes_image">당신의 사진을 좋아합니다.</string>
+    <string name="msg_comment_has_been_removed">댓글이 삭제되었습니다.</string>
+
+    <!-- added for version 2.2 -->
+
+    <string-array name="navDrawerIcons">
+        <item>@drawable/ic_action_profile</item>
+        <item>@drawable/ic_action_gallery</item>
+        <item>@drawable/ic_action_friends</item>
+        <item>@drawable/ic_action_messages</item>
+        <item>@drawable/ic_action_notifications</item>
+        <item>@drawable/ic_action_guests</item>
+        <item>@drawable/ic_action_favorites</item>
+        <item>@drawable/ic_action_liked</item>
+        <item>@drawable/ic_action_upgrade</item>
+        <item>@drawable/ic_action_nearby</item>
+        <item>@drawable/ic_action_stream</item>
+        <item>@drawable/ic_action_feed</item>
+        <item>@drawable/ic_action_search</item>
+        <item>@drawable/ic_action_settings</item>
+    </string-array>
+
+    <!-- added for version 2.3 -->
+
+    <string name="page_15">미디어 피드</string>
+
+    <string-array name="navDrawerItems">
+        <item>프로필</item>
+        <item>내 갤러리</item>
+        <item>친구</item>
+        <item>메시지</item>
+        <item>알림</item>
+        <item>프로필 게스트</item>
+        <item>프로필 좋아요</item>
+        <item>좋아요</item>
+        <item>업그레이드</item>
+        <item>근처 사람들</item>
+        <item>미디어 스트림</item>
+        <item>미디어 피드</item>
+        <item>검색</item>
+        <item>설정</item>
+    </string-array>
+
+    <string name="page_2">내 갤러리</string>
+
+    <string name="action_video_gallery">갤러리의 비디오</string>
+    <string name="label_select_video">동영상 선택</string>
+    <string name="msg_video_too_large">파일이 너무 큽니다..</string>
+    <string name="label_delete_item">항목을 삭제하시겠습니까?</string>
+    <string name="title_activity_view_gallery_item">갤러리 항목</string>
+    <string name="title_activity_video_view">동영상</string>
+
+    <string name="title_activity_stream">미디어 스트림</string>
+    <string name="page_14">미디어 스트림</string>
+
+    <string name="label_gallery">갤러리</string>
+
+    <string name="title_activity_gallery">프로필 갤러리</string>
+
+    <string name="settings_allow_comments_to_photos">내 갤러리 항목에 대한 댓글 허용</string>
+    <string name="msg_comments_disabled">사용자는 자신의 갤러리 항목에 댓글을 달기를 원하지 않습니다.</string>
+
+    <string name="msg_enter_photo">게시할 사진이나 동영상을 선택하세요.</string>
+
+    <!-- added for version 2.5 -->
+
+    <string name="action_grant">승인하다</string>
+    <string name="msg_location_permission_request">위치 사용 권한을 부여하세요.</string>
+    <string name="label_no_storage_permission">저장소 권한이 부여되지 않았습니다.</string>
+    <string name="label_no_location_permission">위치 권한이 부여되지 않았습니다.</string>
+    <string name="label_grant_storage_permission">권한 열기 및 저장소 권한 부여</string>
+    <string name="label_grant_location_permission">권한 열기 및 위치 권한 부여</string>
+
+    <!-- added for version 2.6 -->
+
+    <string name="action_message">메시지</string>
+    <string name="action_gift">선물</string>
+
+    <!-- added for version 2.8 -->
+
+    <string name="title_activity_privacy_settings">프라이버시</string>
+    <string name="settings_privacy">프라이버시</string>
+
+    <string name="settings_privacy_info">친구에게만 프로필 정보 표시</string>
+    <string name="settings_privacy_galley">친구에게만 내 갤러리 표시</string>
+    <string name="settings_privacy_friends">친구에게만 내 친구 표시</string>
+    <string name="settings_privacy_likes">친구에게만 프로필 좋아요 표시</string>
+    <string name="settings_privacy_gifts">친구에게만 선물 표시</string>
+
+    <!-- added for version 2.9 -->
+
+    <string name="action_remove_all">모두 삭제</string>
+    <string name="title_dialog_nearby_sex">성별 선택</string>
+    <string name="label_gender_any">전체</string>
+    <string name="action_nearby_sex_settings">성별 선택</string>
+
+    <!-- added for version 3.0 -->
+
+    <string name="title_activity_welcome">어서 오십시오</string>
+    <string name="title_activity_referrals">추천</string>
+    <string name="title_activity_refill">리필 내역</string>
+
+    <string name="welcome_screen_1_title">어서 오십시오!</string>
+    <string name="welcome_screen_2_title">사진 및 비디오</string>
+    <string name="welcome_screen_3_title">누가 주변에</string>
+    <string name="welcome_screen_4_title">고맙습니다!</string>
+
+    <string name="welcome_screen_1_desc">등록이 성공적으로 완료되었습니다!</string>
+    <string name="welcome_screen_2_desc">사진과 동영상을 공유하세요!</string>
+    <string name="welcome_screen_3_desc">주변 친구 찾기</string>
+    <string name="welcome_screen_4_desc">우리를 선택해 주셔서 감사합니다!</string>
+
+    <string name="action_next">다음</string>
+    <string name="action_finish">마치다</string>
+    <string name="action_skip">건너뛰다</string>
+
+    <string name="label_signup_invite">초대한 사용자 ID(선택 사항)</string>
+    <string name="label_user_id">사용자 ID</string>
+
+    <string name="settings_view_referrals_list">추천</string>
+
+    <string name="label_referrals_id">당신 사용자 ID:</string>
+    <string name="label_referrals_hint">친구를 초대하고 크레딧을 받으세요!</string>
+    <string name="label_referrals_hint2">추천인은 귀하의 초대에 등록한 사람들입니다.</string>
+
+    <string name="label_refill_type_google">구글 플레이 구매</string>
+    <string name="label_refill_amount">크레딧 수:</string>
+
+
+    <!-- added for version 3.1 -->
+
+    <string name="label_only_with_photo">프로필 사진</string>
+    <string name="label_only_with_pro_mode">프로 모드</string>
+    <string name="label_additional">추가옵션</string>
+
+    <string name="label_upgrades_pro_mode">프로 모드</string>
+    <string name="label_pro_mode_enabled">프로 모드 활성화!</string>
+
+    <string name="msg_success_pro_mode">"프로 모드"가 성공적으로 활성화되었습니다!</string>
+
+    <!-- added for version 3.2 -->
+
+    <string name="msg_pro_mode_alert">무제한 메시지를 보내려면 업그레이드 섹션에서 "프로 모드"를 활성화해야 합니다!</string>
+    <string name="msg_account_deactivated">이 계정은 사용자에 의해 비활성화되었습니다.</string>
+
+    <string name="label_upgrades_pro_mode_desc">다른 사용자에게 무제한 비공개 메시지를 보낼 수 있습니다.</string>
+
+    <string name="label_just_now">방금</string>
+
+    <!-- added for version 3.3 -->
+
+    <string name="settings_account_free_messages_count" translatable="false">free_messages_count</string>
+    <string name="settings_account_pro_mode" translatable="false">pro_mode</string>
+    <string name="settings_account_verified" translatable="false">account_verified</string>
+    <string name="settings_account_photo_url" translatable="false">account_photo_url</string>
+    <string name="settings_account_cover_url" translatable="false">account_cover_url</string>
+    <string name="settings_account_fullname" translatable="false">account_fullname</string>
+
+    <!-- added for version 3.4 -->
+
+    <string name="label_typing">타자...</string>
+    <string name="label_chat_media">미디어</string>
+    <string name="label_chat_stickers">스티커</string>
+
+    <string name="label_multi_account_msg">다중 계정을 만들 수 없습니다!</string>
+
+    <string name="channel_name">데이트</string>
+
+    <string name="label_free_messages_count">무료 메시지 수</string>
+
+    <!-- added for version 3.5 -->
+
+    <string name="label_sex_orientation">성적 지향</string>
+    <string name="label_height">키</string>
+    <string name="label_weight">무게</string>
+    <string name="label_cm">센티미터</string>
+    <string name="label_kg">킬로그램</string>
+
+    <string name="label_select_gender">성별</string>
+    <string name="label_select_sex_orientation">성적 지향</string>
+    <string name="label_select_age">나이</string>
+
+    <string name="msg_gender_incorrect">당신의 성별을 선택 해주세요</string>
+    <string name="msg_sex_orientation_incorrect">성적 취향을 선택해 주세요</string>
+    <string name="msg_age_incorrect">나이를 선택하세요.</string>
+    <string name="msg_age_incorrect_2">나이를 입력하세요(18세 이상).</string>
+    <string name="msg_age_incorrect_3">나이를 입력하세요(110세 이하).</string>
+
+    <string name="sex_orientation_1">이성애자</string>
+    <string name="sex_orientation_2">게이</string>
+    <string name="sex_orientation_3">레즈비언</string>
+    <string name="sex_orientation_4">비동성애자</string>
+
+    <string name="account_settings_sex_orientation">성적 지향</string>
+
+    <string name="title_dialog_sex_orientation_select">성별 선택</string>
+    <string name="label_sex_orientation_any">모든 섹스 지향</string>
+    <string name="action_nearby_sex_orientation_settings">선택 섹스 오리엔테이션</string>
+    <string name="action_nearby_distance_settings">선택 거리</string>
+
+    <string name="label_age_from_to">나이(부터,까지)</string>
+
+    <!-- added for version 3.6 -->
+
+    <string name="settings_notifications_matches">매치</string>
+
+    <string name="title_activity_matches">매치</string>
+    <string name="title_activity_hotgame">매치 성공</string>
+
+    <string name="label_gcm_new_match_found">새로운 일치 항목을 찾았습니다.</string>
+
+    <string name="nav_drawer_open">열려 있는</string>
+    <string name="nav_drawer_close">닫다</string>
+
+    <string name="nav_hotgame">매치</string>
+    <string name="nav_profile">프로필</string>
+    <string name="nav_gallery">내 갤러리</string>
+    <string name="nav_friends">친구</string>
+    <string name="nav_matches">매치</string>
+    <string name="nav_messages">메시지</string>
+    <string name="nav_notifications">알림</string>
+    <string name="nav_guests">프로필 게스트</string>
+    <string name="nav_likes">프로필 좋아요</string>
+    <string name="nav_liked">좋아요</string>
+    <string name="nav_upgrades">업그레이드</string>
+    <string name="nav_nearby">근처 사람들</string>
+    <string name="nav_stream">미디어 스트림</string>
+    <string name="nav_feed">미디어 피드</string>
+    <string name="nav_search">검색</string>
+    <string name="nav_settings">설정</string>
+
+    <string name="label_hotgame_dialog_title">매치 설정</string>
+
+    <string name="label_hotgame_liked_checkbox">좋아요 표시</string>
+    <string name="label_hotgame_matches_checkbox">매치 보기</string>
+
+    <string name="settings_account_allow_matches_gcm" translatable="false">allow_matches_gcm</string>
+    <string name="settings_account_allow_likes_gcm" translatable="false">allow_likes_gcm</string>
+
+    <!-- added for version 3.7 -->
+
+    <string name="settings_account_admob" translatable="false">애드몹</string>
+    <string name="action_profile_edit_feeling">필링 설정</string>
+    <string name="title_activity_feelings">감정</string>
+
+    <!-- added for version 3.8 -->
+
+    <string name="msg_success_rewarded">축하합니다! 광고 시청에 대한 보상은 잔액에 적립됩니다!</string>
+
+    <string name="action_view_rewarded_video_ad">광고 시청에 대한 보상 받기</string>
+
+    <!-- added for version 3.9 -->
+
+    <string name="settings_account_balance" translatable="false">계정 잔액</string>
+
+    <!-- added for version 4.0 -->
+
+    <string name="action_see_all">모두 보기</string>
+
+    <!-- DO NOT TRANSLATE START -->
+    <string name="default_notification_channel_id" translatable="false">my_channel_01</string>
+    <!-- DO NOT TRANSLATE END-->					
+					
+    <!-- added for version 4.1 -->
+
+    <string name="title_activity_upgrades">업그레이드</string>
+    <string name="title_activity_guests">게스트</string>
+    <string name="title_activity_media">미디어</string>
+    <string name="title_activity_liked">좋아요</string>
+
+    <string name="nav_people_nearby">가까운</string>
+    <string name="nav_media_stream">개울</string>
+    <string name="nav_media_feed">피드</string>
+    <string name="nav_menu">메뉴</string>
+
+    <string name="label_photo_privacy">미디어 스트림에 표시</string>
+
+    <!-- added for version 4.2 -->
+
+    <string name="label_gcm_media_approve">갤러리 항목이 승인되었습니다.</string>
+    <string name="label_gcm_media_reject">갤러리 항목이 거부되었습니다.</string>
+
+    <string name="label_media_approved">%s님이 갤러리 항목을 승인했습니다.</string>
+    <string name="label_media_rejected">%s님이 갤러리 항목을 거부했습니다.</string>
+
+    <string name="label_gcm_profile_photo_approve">프로필 사진이 승인되었습니다.</string>
+    <string name="label_gcm_profile_photo_reject">프로필 사진이 거부되었습니다.</string>
+
+    <string name="label_profile_photo_approved">%s님이 프로필 사진을 승인했습니다.</string>
+    <string name="label_profile_photo_rejected">%s님이 프로필 사진을 거부했습니다.</string>
+
+    <string name="settings_view_circle_items">목록에서 사람 사진을 둥글게 만들기</string>
+
+    <string name="msg_gallery_moderation_notice">주목! 사용자는 검토 후에만 게시물을 볼 수 있습니다!</string>
+    <string name="msg_gallery_item_added">항목이 조정으로 전송되었습니다. 검토가 끝나면 알림을 받게 됩니다.</string>
+
+    <string name="msg_gallery_item_status_rejected">중재자에 의해 거부되었으며 사용자가 볼 수 없습니다.</string>
+    <string name="msg_gallery_item_status_approved">중재자의 승인을 받았으며 사용자가 볼 수 있습니다.</string>
+    <string name="msg_gallery_item_status_wait">중재를 기다리고 있습니다. 검토 후 사용자가 사용할 수 있습니다. 조정 종료에 대한 알림을 받게 됩니다.</string>
+
+    <!-- DO NOT TRANSLATE BLOCK START -->
+    <string name="settings_account_circle_items" translatable="false">account_circle_items</string>
+    <!-- DO NOT TRANSLATE BLOCK END-->					
+					
+    <!-- added for version 4.3 -->
+
+    <string name="action_back">뒤</string>
+    <string name="action_choose_photo">사진 선택</string>
+    <string name="action_choose_age">나이</string>
+    <string name="action_choose_gender">성별</string>
+    <string name="action_choose_sex_orientation">성적 지향</string>
+    <string name="action_grant_access">액세스 권한 부여</string>
+    <string name="action_grant_access_success">액세스 권한 부여</string>
+
+    <string name="register_screen_2_msg">프로필 사진을 선택하세요.</string>
+    <string name="register_screen_2_title">당신의 사진</string>
+    <string name="register_screen_2_subtitle">사진을 선택할 때 창의력을 발휘하십시오!</string>
+
+    <string name="register_screen_3_msg">나이를 지정하십시오.</string>
+    <string name="register_screen_3_title">나이</string>
+    <string name="register_screen_3_subtitle">나이를 지정하십시오.</string>
+
+    <string name="register_screen_4_msg">성별과 성적 취향을 지정합니다.</string>
+    <string name="register_screen_4_title">성별 및 성적 취향</string>
+    <string name="register_screen_4_subtitle">성별 및 성적 취향 지정</string>
+
+    <string name="register_screen_5_title">핫게임과 주변</string>
+    <string name="register_screen_5_subtitle">일부 기능에 액세스하려면 앱에서 내 위치 사용 권한이 필요합니다.</string>
+
+    <string name="label_secret">비밀</string>
+    <string name="label_sex_secret">성별은 비밀</string>
+
+    <string name="label_register_terms">계속을 클릭하면 당사의</string>
+
+    <string name="msg_action_logout">로그아웃하시겠습니까?</string>
+
+    <string name="label_profile_photo_approved_new">%s님이 프로필 사진을 승인했습니다. 귀하의 프로필이 성공적으로 검토되었습니다! 앱의 모든 기능을 사용할 수 있습니다!</string>
+    <string name="label_profile_photo_rejected_new">%s님이 프로필 사진을 거부했습니다. 검토를 반복하려면 프로필 사진을 업로드/변경하세요.</string>
+
+    <string name="label_only_moderated">중재자만 확인</string>
+
+    <string name="dlg_moderation_title">절도</string>
+    <string name="msg_account_not_moderated">성공적으로 관리된 계정에만 사용할 수 있습니다! 귀하의 프로필은 아직 검토되지 않았습니다!</string>
+
+    <!-- For version 4.4 -->
+
+    <string name="label_distance">거리(%d)</string>
+    <string name="label_nearby_settings_dialog_title">주변 설정</string>
+    <string name="label_age_filters">나이</string>
+
+    <!-- DO NOT TRANSLATE BLOCK START -->
+    <string name="settings_nearby_gender" translatable="false">account_nearby_gender</string>
+    <string name="settings_nearby_sex_orientation" translatable="false">account_nearby_sex_orientation</string>
+    <string name="settings_nearby_distance" translatable="false">account_nearby_distance</string>
+
+    <string name="settings_search_gender" translatable="false">account_search_gender</string>
+    <string name="settings_search_sex_orientation" translatable="false">account_search_sex_orientation</string>
+    <string name="settings_search_online" translatable="false">account_search_online</string>
+    <string name="settings_search_photo" translatable="false">account_search_photo</string>
+    <string name="settings_search_pro" translatable="false">account_search_pro</string>
+    <string name="settings_search_moderation" translatable="false">account_search_moderation</string>
+    <string name="settings_search_age_from" translatable="false">account_search_age_from</string>
+    <string name="settings_search_age_to" translatable="false">account_search_age_to</string>
+    <!-- DO NOT TRANSLATE BLOCK END-->					
+					
+    <string name="rsb_min_label">나이 시작</string>
+    <string name="rsb_max_label">나이 끝</string>
+					
+    <!-- For version 4.5 -->
+
+    <string name="label_profile_photo_moderation_active">프로필 사진은 검토 후 사용자에게 제공됩니다. 이제 사용자는 중재자가 승인한 이전 사진 또는 기본 사진을 볼 수 있습니다.</string>
+    <string name="label_profile_cover_moderation_active">프로필 표지는 검토 후 모든 사용자가 사용할 수 있습니다. 이제 사용자는 중재자가 승인한 이전 표지 또는 기본 표지를 볼 수 있습니다.</string>
+
+    <string name="label_profile_cover_approved_new">%s님이 프로필 표지를 승인했습니다.</string>
+    <string name="label_profile_cover_rejected_new">%s님이 프로필 표지를 거부했습니다. 검토를 반복하려면 프로필 표지를 업로드/변경하세요.</string>
+
+    <string name="label_gcm_profile_cover_approve">프로필 표지가 승인되었습니다.</string>
+    <string name="label_gcm_profile_cover_reject">프로필 표지가 거부되었습니다.</string>
+
+    <!-- For version 4.7 -->
+
+    <string name="settings_account_allow_gifts_gcm" translatable="false">allow_gifts_gcm</string>
+    <string name="settings_account_allow_friends_requests_gcm" translatable="false">allow_friends_requests_gcm</string>
+    <string name="settings_account_allow_comments_gcm" translatable="false">allow_comments_gcm</string>
+
+    <string name="action_cancel_friends_request">요청 취소</string>
+
+    <!--  For version 4.8  -->
+
+    <string name="title_activity_balance_history">잔액 내역</string>
+    <string name="settings_view_balance_history">잔액 내역</string>
+    <string name="settings_view_balance">균형</string>
+
+    <string name="label_payments_credits_stripe">Stripe로 크레딧 구매하기</string>
+    <string name="label_payments_credits_android">Android 인앱 구매로 크레딧 구매</string>
+    <string name="label_payments_credits_ios">iOS 인앱 구매로 크레딧 구매하기</string>
+    <string name="label_payments_credits_admob">광고 시청 크레딧</string>
+    <string name="label_payments_send_gift">선물 보내기</string>
+    <string name="label_payments_verified_badge">인증 배지 기능 활성화</string>
+    <string name="label_payments_ghost_mode">고스트 모드 활성화</string>
+    <string name="label_payments_off_admob">앱에서 Admob 광고 비활성화</string>
+    <string name="label_payments_pro_mode">프로 모드 활성화</string>
+    <string name="label_payments_message_package">메시지 패키지 활성화</string>
+    <string name="label_payments_spotlight_feature">스포트라이트 기능 사용</string>
+    <string name="label_payments_registration_bonus">가입 보너스</string>
+    <string name="label_payments_referral_bonus">추천 보너스</string>
+
+    <string name="label_upgrades_message_package">메시지 패키지(100개 메시지)</string>
+    <string name="label_upgrades_message_package_desc">사용자에게 비공개 메시지를 보내려면 메시지 팩을 구입하세요. Pro 모드를 활성화하여 무제한 메시지를 보낼 수도 있습니다.</string>
+
+    <string name="action_get_balance">도움구매</string>
+    <string name="dlg_choice_gift_title">선물</string>
+    <string name="dlg_choice_feeling_title">감정</string>
+    <string name="account_balance_label">당신은 %d 크레딧을 균형</string>
+
+    <string name="price_of">%d 크레딧</string>
+
+    <string name="title_activity_spotlight">스포트라이트</string>
+    <string name="label_spotlight">스포트라이트</string>
+    <string name="nav_spotlight">스포트라이트</string>
+
+    <string name="action_add_me">여기에 나를 추가</string>
+
+    <string name="free_messages_of">%d개의 무료 메시지</string>
+    <string name="msg_success_buy_message_package">메시지 수를 늘렸습니다!</string>
+
+    <string name="msg_spotlight_dlg_content">귀하의 프로필은 목록의 맨 위에 추가되고 다른 사용자가 이 목록에 프로필을 추가할 때까지 첫 번째 위치에 유지됩니다. 이 기능을 사용하면 내부 잔액에서 %d 크레딧이 차감됩니다. 동의하십니까?</string>
+    <string name="msg_spotlight_dlg_content_added">귀하의 프로필은 이미 목록의 맨 위에 있습니다!</string>
+
+    <string name="msg_play_video_error">동영상을 재생할 수 없습니다. 파일을 찾을 수 없습니다.</string>
+
+    <!--  For version 5.1  -->
+
+    <string name="label_item_delete_msg">이 항목을 삭제하시겠습니까?</string>
+    <string name="action_image_from_gallery">갤러리의 이미지</string>
+    <string name="action_image_from_camera">사진을 찍다</string>
+    <string name="action_choice_sticker">스티커</string>
+
+    <string name="error_client_id">CLIENT_ID - 두 구성 파일 모두에서 올바르지 않거나 동일하지 않습니다! 구성 파일의 올바른 구성을 확인하십시오!</string>
+    <string name="error_client_secret">CLIENT_SECRET - 두 구성 파일이 잘못되었거나 동일하지 않습니다! 구성 파일의 올바른 구성을 확인하십시오!</string>
+
+    <!--  For version 5.2  -->
+
+    <string name="title_activity_otp_verification">OTP 인증</string>
+    <string name="settings_view_otp_verification">OTP 인증</string>
+    <string name="settings_view_otp_verification_summary">휴대폰 번호로 인증</string>
+
+    <string name="otp_phone_number_placeholder">휴대폰 번호를 입력하세요...</string>
+    <string name="otp_sms_code_placeholder">SMS의 6자리 코드 입력</string>
+    <string name="otp_action_send_code">코드 보내기</string>
+    <string name="otp_action_resend_code">코드 재전송</string>
+    <string name="otp_action_check_code">코드 확인</string>
+
+    <string name="otp_verification_promo">이 기능은 휴대폰 번호를 연결하여 인증한 사용자만 사용할 수 있습니다. 전화번호를 계정에 연결하고 SMS로 확인하면 모든 기능을 제한 없이 사용할 수 있습니다!</string>
+    <string name="otp_verification_success_msg">만세. 확인이 성공적으로 완료되었습니다!</string>
+    <string name="otp_verification_error_msg">오류. 확인이 완료되지 않았습니다</string>
+    <string name="otp_verification_code_error_msg">SMS에서 잘못된 코드를 입력했습니다.</string>
+    <string name="otp_verification_code_error_msg_2">유효하지 않은 코드.</string>
+    <string name="otp_verification_code_sent_msg">코드가 포함된 SMS가 모바일로 전송되었습니다.</string>
+    <string name="otp_verification_phone_number_error_msg">잘못된 전화번호 형식입니다.</string>
+    <string name="otp_verification_phone_number_taken_error_msg">전화번호는 이미 다른 계정에 연결되어 있습니다.</string>
+    <string name="otp_verification_phone_number_error_msg_2">잘못된 전화번호 형식입니다.</string>
+    <string name="otp_verification_many_requests_error_msg">비정상적인 활동으로 인해 이 기기의 모든 요청을 차단했습니다. 나중에 다시 시도하세요.</string>
+
+    <string name="otp_phone_number_info">국제 형식의 휴대전화 번호(예: +380974556781)</string>
+    <string name="otp_sms_code_info">SMS의 6자리 숫자 코드</string>
+
+    <string name="settings_account_otp_verification" translatable="false">otp_verification</string>
+    <string name="settings_account_otp_phone_number" translatable="false">otp_phone_number</string>
+
+    <!--  For version 5.4  -->
+
+    <string name="settings_search_distance" translatable="false">account_search_distance</string>
+
+    <string name="label_search_filters">검색 필터</string>
+    <string name="label_search_filters_search_placeholder">사용자 이름(선택 사항)</string>
+
+    <string name="label_nearby_sub_title">누가 가까이 있는지 보세요. 데이트를 찾습니다.</string>
+    <string name="label_feed_sub_title">친구의 사진 및 비디오</string>
+    <string name="label_feed_sub_title_2">친구 목록이 비어 있거나 친구에게 게시물이 없습니다. SEARCH 기능을 사용하여 친구 및 지인을 찾으십시오!</string>
+    <string name="label_stream_sub_title">사진 및 비디오의 글로벌 스트림</string>
+    <string name="label_stream_sub_title_2">사진과 동영상을 보고 사용자 게시물에 댓글을 달고 좋아요를 누르세요.</string>
+    <string name="action_see_stream">스트림 보기</string>
+
+    <!--  For version 5.5  -->
+
+    <string name="action_show_filters">필터 표시</string>
+    <string name="label_hotgame_list_empty">죄송합니다. 지정한 필터로 사람을 찾지 못했습니다. 예를 들어 필터를 변경해 보십시오. 거리 늘리기</string>
+
+    <!--  For version 5.5.1  -->
+
+    <string name="settings_hotgame_gender" translatable="false">account_hotgame_gender</string>
+    <string name="settings_hotgame_sex_orientation" translatable="false">account_hotgame_sex_orientation</string>
+    <string name="settings_hotgame_liked" translatable="false">account_hotgame_liked</string>
+    <string name="settings_hotgame_matches" translatable="false">account_hotgame_matches</string>
+    <string name="settings_hotgame_distance" translatable="false">account_hotgame_distance</string>
+
+    <!--  For version 5.6  -->
+
+    <string name="msg_location_detect_error">귀하의 위치를 ​​찾을 수 없습니다. 장치에서 지리적 위치가 꺼져 있거나 위치 기록이 지워졌을 수 있습니다. 앱의 모든 기능을 제한 없이 이용하실 수 있도록 기본 위치를 설정하였습니다.</string>
+
+    <!--  For version 5.7  -->
+
+    <string name="settings_night_mode" translatable="false">야간 모드</string>
+
+    <string name="settings_language" translatable="false">lng_언어</string>
+    <string name="language_default" translatable="false">기본값(영어)</string>
+
+    <string name="title_select_language">언어 선택</string>
+    <string name="settings_language_label">언어</string>
+    <string name="settings_language_summary">언어를 선택할 수 있습니다</string>
+
+    <string name="settings_night_mode_label">야간 모드</string>
+    <string name="settings_night_mode_summary">앱 테마를 전환할 수 있습니다.</string>
+
+    <!--  For version 5.8  -->
+
+    <string name="settings_feed_mode" translatable="false">feed_mode</string>
+
+    <string name="label_feed_mode_0">글로벌 플로우</string>
+    <string name="label_feed_mode_1">친구 업데이트</string>
+    <string name="label_feed_mode_sub_header">전환 버튼을 사용하여 플로우 변경</string>
+
+    <!--  For version 5.9  -->
+
+    <string name="label_no_camera_permission">카메라 권한이 부여되지 않았습니다.</string>
+    <string name="label_grant_camera_permission">권한 열기 및 카메라 권한 부여</string>
+
+    <!--  For version 6.1  -->
+
+    <string name="label_item_report_title">악용사례 신고</string>
+    <string name="label_item_report_sent">귀하의 불만 사항이 전송되었습니다. 고맙습니다!</string>
+
+    <string name="action_login_with_google">구글로 로그인</string>
+    <string name="action_signup_with_google">Google에 가입</string>
+    <string name="action_connect_with_google">Google과 연결</string>
+
+    <string name="label_account_connected_to_google">구글과 연결</string>
+    <string name="label_account_connect_to_google">이 계정을 Google 계정과 연결</string>
+
+    <string name="msg_connect_to_google_success">애플리케이션을 Google 계정과 성공적으로 연결했습니다!</string>
+    <string name="msg_connect_to_google_error">귀하의 Google 계정은 이미 다른 계정과 연결되어 있습니다.</string>
+    <string name="msg_connect_to_google_removed">삭제된 Google 계정과 연결하세요.</string>
+
+    <string name="label_authorization_via_google">Google을 통한 승인.</string>
+
+    <string name="settings_interstitial_ad_after_new_gallery_item" translatable="false">settings_interstitial_ad_after_new_gallery_item</string>
+    <string name="settings_interstitial_ad_after_new_like" translatable="false">settings_interstitial_ad_after_new_like</string>
+    <string name="settings_interstitial_ad_after_new_profile_like" translatable="false">settings_interstitial_ad_after_new_profile_like</string>
+    <string name="settings_interstitial_ad_after_new_comment" translatable="false">settings_interstitial_ad_after_new_comment</string>
+    <string name="settings_interstitial_ad_after_profile_view" translatable="false">settings_interstitial_ad_after_profile_view</string>
+
+    <string name="settings_interstitial_ad_after_new_gallery_item_current_val" translatable="false">settings_interstitial_ad_after_new_gallery_item_current_val</string>
+    <string name="settings_interstitial_ad_after_new_like_current_val" translatable="false">settings_interstitial_ad_after_new_like_current_val</string>
+    <string name="settings_interstitial_ad_after_new_profile_like_current_val" translatable="false">settings_interstitial_ad_after_new_profile_like_current_val</string>
+    <string name="settings_interstitial_ad_after_new_comment_current_val" translatable="false">settings_interstitial_ad_after_new_comment_current_val</string>
+    <string name="settings_interstitial_ad_after_profile_view_current_val" translatable="false">settings_interstitial_ad_after_profile_view_current_val</string>
+
+    <!--  For version 6.2  -->
+
+    <string name="label_month_time">30일 동안</string>
+    <string name="label_life_time">영원히</string>
+    <string name="action_purchase">구입</string>
+
+
+
+    <!-- test from jjs -->
+
+    <string name="default_web_client_id">1</string>
+
+</resources>			
