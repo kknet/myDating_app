@@ -72,6 +72,8 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
+
+
 public class HotgameFragment extends Fragment implements Constants, CardStackListener{
 
     private static final String STATE_LIST = "State Adapter Data";
