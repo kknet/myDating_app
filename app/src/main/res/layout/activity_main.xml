@@ -46,14 +46,13 @@
                     <LinearLayout
                         android:id="@+id/container_admob"
                         android:layout_width="match_parent"
-                        android:layout_height="50dp"
+                        android:layout_height="57dp"
                         android:layout_marginTop="5dp"
                         android:layout_marginBottom="7dp"
                         android:background="#00ffffff"
                         android:gravity="center"
                         android:orientation="vertical"
                         android:visibility="visible">
-
 
 
                     </LinearLayout>
@@ -63,21 +62,21 @@
             </com.google.android.material.appbar.AppBarLayout>
 
             <LinearLayout
+                android:id="@+id/linearLayout8"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_weight="1"
                 android:background="@color/grey_3"
                 android:focusableInTouchMode="true"
-                android:layout_weight="1"
                 android:orientation="vertical"
-                app:layout_behavior="@string/appbar_scrolling_view_behavior" >
+                app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
                 <FrameLayout
                     android:id="@+id/container_body"
                     android:layout_width="fill_parent"
-                    android:layout_height="0dp"
-                    android:paddingBottom="?attr/actionBarSize"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
-                    android:visibility="visible" >
+                    android:visibility="visible">
 
                     <com.google.android.material.bottomnavigation.BottomNavigationView
                         android:id="@+id/nav_bottom_view"
@@ -91,7 +90,6 @@
                         app:layout_behavior="@string/hide_bottom_view_on_scroll_behavior"
                         app:menu="@menu/menu_nav_bottom" />
                 </FrameLayout>
-
             </LinearLayout>
 
         </androidx.coordinatorlayout.widget.CoordinatorLayout>

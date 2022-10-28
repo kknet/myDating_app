@@ -6,10 +6,6 @@
         android:icon="@drawable/ic_flow"
         android:title="" />
 
-    <item
-        android:id="@+id/nav_notifications"
-        android:icon="@drawable/ic_notification"
-        android:title="" />
 
     <item
         android:id="@+id/nav_finder"
@@ -21,6 +17,10 @@
         android:icon="@drawable/ic_messages"
         android:title="" />
 
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/ic_notification"
+        android:title="" />
     <item
         android:id="@+id/nav_menu"
         android:icon="@drawable/ic_menu"

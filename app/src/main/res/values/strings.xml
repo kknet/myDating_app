@@ -30,7 +30,7 @@
     <string name="action_continue">계속하다</string>
     <string name="action_unblock">차단 해제</string>
     <string name="action_block">차단하다</string>
-    <string name="action_about">에 대한</string>
+    <string name="action_about">공지사항</string>
     <string name="action_ok">확인</string>
     <string name="action_yes">예</string>
     <string name="action_no">아니</string>
@@ -95,8 +95,8 @@
     <string name="label_male">남성</string>
     <string name="label_female">여성</string>
     <string name="label_sex_undefined">성별이 설정되지 않음</string>
-    <string name="label_sex_male">성별 남성</string>
-    <string name="label_sex_female">성별 여성</string>
+    <string name="label_sex_male">남성</string>
+    <string name="label_sex_female">여성</string>
 
     <string name="label_profile_information">프로필 정보</string>
     <string name="label_profile_activity">프로필 활동</string>
@@ -270,7 +270,7 @@
 
     <string name="settings_header_general">일반적인</string>
     <string name="settings_header_others">기타</string>
-    <string name="settings_header_about">에 대한</string>
+    <string name="settings_header_about">공지</string>
     <string name="settings_header_notifications">공고</string>
 
     <string name="settings_notifications_likes">좋아요</string>
@@ -318,60 +318,60 @@
 
     <string name="account_relationship_status">관계 상태</string>
     <string name="account_political_views">정치적 견해</string>
-    <string name="account_world_view">세계관</string>
+    <string name="account_world_view">종교</string>
     <string name="account_personal_priority">개인 우선 순위</string>
-    <string name="account_important_in_others">다른 사람에게 중요한</string>
+    <string name="account_important_in_others">관계에서 중요한 가치</string>
     <string name="account_smoking_views">흡연에 대한 견해</string>
     <string name="account_alcohol_views">술에 대한 견해</string>
     <string name="account_you_looking">무엇을 찾고 계신가요?</string>
-    <string name="account_you_like">어떤 성별을 좋아하세요?</string>
+    <string name="account_you_like">이성친구 혹은 동성친구?</string>
 
-    <string name="account_profile_looking">찾고있는</string>
-    <string name="account_profile_like">성별 좋아</string>
+    <string name="account_profile_looking">만남의 의미</string>
+    <string name="account_profile_like">관심의 범위</string>
 
-    <string name="account_you_looking_dialog">당신의 목표</string>
-    <string name="account_you_like_dialog">선호 성별</string>
+    <string name="account_you_looking_dialog">만남의 의미</string>
+    <string name="account_you_like_dialog">관심의 범위</string>
 
     <string name="relationship_status_0">미선택</string>
-    <string name="relationship_status_1">싱글</string>
-    <string name="relationship_status_2">관계</string>
-    <string name="relationship_status_3">약혼</string>
+    <string name="relationship_status_1">모태솔로</string>
+    <string name="relationship_status_2">싱글</string>
+    <string name="relationship_status_3">돌싱</string>
     <string name="relationship_status_4">기혼</string>
-    <string name="relationship_status_5">사랑</string>
-    <string name="relationship_status_6">불확실</string>
-    <string name="relationship_status_7">적극적으로 구함</string>
+    <string name="relationship_status_5">사별</string>
+    <string name="relationship_status_6">복잡함</string>
+    <string name="relationship_status_7">비밀로</string>
 
     <string name="political_views_0">미선택</string>
-    <string name="political_views_1">냉담</string>
-    <string name="political_views_2">공산주의자</string>
-    <string name="political_views_3">사회주의자</string>
-    <string name="political_views_4">중도</string>
-    <string name="political_views_5">진보</string>
-    <string name="political_views_6">보수</string>
-    <string name="political_views_7">군주주의자</string>
-    <string name="political_views_8">극단적 보수주의</string>
-    <string name="political_views_9">자유주의자</string>
+    <string name="political_views_1">매우 진보적이다담</string>
+    <string name="political_views_2">다소 진보적인 편이다</string>
+    <string name="political_views_3">진보도 보수도 아니다</string>
+    <string name="political_views_4">다소 보수적인 편이다</string>
+    <string name="political_views_5">매우 보수적인다</string>
+    <string name="political_views_6">사회주의자</string>
+    <string name="political_views_7">공산주의자</string>
+    <string name="political_views_8">파시즘</string>
+    <string name="political_views_9">근본주의자</string>
 
     <string name="world_view_0">미선택</string>
-    <string name="world_view_1">유태교</string>
-    <string name="world_view_2">정설</string>
-    <string name="world_view_3">카톨릭교</string>
-    <string name="world_view_4">신교</string>
-    <string name="world_view_5">이슬람교</string>
-    <string name="world_view_6">불교</string>
-    <string name="world_view_7">유도</string>
-    <string name="world_view_8">인본주의</string>
-    <string name="world_view_9">파시즘</string>
+    <string name="world_view_1">카톨릭교</string>
+    <string name="world_view_2">개신교</string>
+    <string name="world_view_3">불교</string>
+    <string name="world_view_4">이슬람교</string>
+    <string name="world_view_5">무속신앙</string>
+    <string name="world_view_6">유교</string>
+    <string name="world_view_7">원불교</string>
+    <string name="world_view_8">천도교</string>
+    <string name="world_view_9">무교</string>
 
     <string name="personal_priority_0">미선택</string>
-    <string name="personal_priority_1">가족 및 어린이</string>
+    <string name="personal_priority_1">가족과 자녀</string>
     <string name="personal_priority_2">경력과 돈</string>
-    <string name="personal_priority_3">엔터테인먼트 및 레저</string>
-    <string name="personal_priority_4">과학 및 연구</string>
-    <string name="personal_priority_5">세계와 자연</string>
-    <string name="personal_priority_6">개인 개발</string>
+    <string name="personal_priority_3">엔터테인먼트와 레저</string>
+    <string name="personal_priority_4">과학과 연구</string>
+    <string name="personal_priority_5">자연과 여행</string>
+    <string name="personal_priority_6">개인의 개발</string>
     <string name="personal_priority_7">아름다움과 예술</string>
-    <string name="personal_priority_8">명성과 영향력</string>
+    <string name="personal_priority_8">명예와 영향력</string>
 
     <string name="important_in_others_0">미선택</string>
     <string name="important_in_others_1">지성과 창의성</string>
@@ -384,28 +384,28 @@
     <string name="smoking_views_0">미선택</string>
     <string name="smoking_views_1">매우 부정적</string>
     <string name="smoking_views_2">부정적</string>
-    <string name="smoking_views_3">타협</string>
+    <string name="smoking_views_3">타협 가능</string>
     <string name="smoking_views_4">중립적</string>
     <string name="smoking_views_5">긍정적</string>
 
     <string name="alcohol_views_0">미선택</string>
     <string name="alcohol_views_1">매우 부정적</string>
     <string name="alcohol_views_2">부정적</string>
-    <string name="alcohol_views_3">타협</string>
+    <string name="alcohol_views_3">타협 가능</string>
     <string name="alcohol_views_4">중립적</string>
     <string name="alcohol_views_5">긍정적</string>
 
     <string name="you_looking_0">미선택</string>
-    <string name="you_looking_1">우정</string>
-    <string name="you_looking_2">관계</string>
-    <string name="you_looking_3">썸</string>
+    <string name="you_looking_1">공감과 이해</string>
+    <string name="you_looking_2">위로와 의지</string>
+    <string name="you_looking_3">행복한 동행</string>
 
     <string name="you_like_0">미선택</string>
-    <string name="you_like_1">나는 여자에게 관심이 있다</string>
-    <string name="you_like_2">나는 남자에게 관심이 있다</string>
+    <string name="you_like_1">이성친구</string>
+    <string name="you_like_2">동성친구</string>
 
-    <string name="profile_like_1">여성에 관심</string>
-    <string name="profile_like_2">남자에 관심</string>
+    <string name="profile_like_1">이성친구</string>
+    <string name="profile_like_2">동성친구</string>
 
 
     <string name="drawer_open">오픈</string>
@@ -680,32 +680,32 @@
 
     <!-- added for version 3.5 -->
 
-    <string name="label_sex_orientation">성적 지향</string>
+    <string name="label_sex_orientation">만남의 목적</string>
     <string name="label_height">키</string>
     <string name="label_weight">무게</string>
     <string name="label_cm">센티미터</string>
     <string name="label_kg">킬로그램</string>
 
     <string name="label_select_gender">성별</string>
-    <string name="label_select_sex_orientation">성적 지향</string>
+    <string name="label_select_sex_orientation">만남의 목적</string>
     <string name="label_select_age">나이</string>
 
     <string name="msg_gender_incorrect">당신의 성별을 선택 해주세요</string>
-    <string name="msg_sex_orientation_incorrect">성적 취향을 선택해 주세요</string>
+    <string name="msg_sex_orientation_incorrect">만남의 목적을 선택해 주세요</string>
     <string name="msg_age_incorrect">나이를 선택하세요.</string>
     <string name="msg_age_incorrect_2">나이를 입력하세요(18세 이상).</string>
     <string name="msg_age_incorrect_3">나이를 입력하세요(110세 이하).</string>
 
-    <string name="sex_orientation_1">이성애자</string>
-    <string name="sex_orientation_2">게이</string>
-    <string name="sex_orientation_3">레즈비언</string>
-    <string name="sex_orientation_4">비동성애자</string>
+    <string name="sex_orientation_1">대화친구</string>
+    <string name="sex_orientation_2">썸남썸녀</string>
+    <string name="sex_orientation_3">연인으로</string>
+    <string name="sex_orientation_4">결혼목표</string>
 
-    <string name="account_settings_sex_orientation">성적 지향</string>
+    <string name="account_settings_sex_orientation">만남의 목적</string>
 
-    <string name="title_dialog_sex_orientation_select">성별 선택</string>
-    <string name="label_sex_orientation_any">모든 섹스 지향</string>
-    <string name="action_nearby_sex_orientation_settings">선택 섹스 오리엔테이션</string>
+    <string name="title_dialog_sex_orientation_select">만남</string>
+    <string name="label_sex_orientation_any">모든 만남 지향</string>
+    <string name="action_nearby_sex_orientation_settings">선택 오리엔테이션</string>
     <string name="action_nearby_distance_settings">선택 거리</string>
 
     <string name="label_age_from_to">나이(부터,까지)</string>
@@ -729,9 +729,9 @@
     <string name="nav_matches">매치</string>
     <string name="nav_messages">메시지</string>
     <string name="nav_notifications">알림</string>
-    <string name="nav_guests">프로필 게스트</string>
-    <string name="nav_likes">프로필 좋아요</string>
-    <string name="nav_liked">좋아요</string>
+    <string name="nav_guests">게스트</string>
+    <string name="nav_likes">팔로워</string>
+    <string name="nav_liked">팔로잉</string>
     <string name="nav_upgrades">업그레이드</string>
     <string name="nav_nearby">근처 사람들</string>
     <string name="nav_stream">미디어 스트림</string>
@@ -818,7 +818,7 @@
     <string name="action_choose_photo">사진 선택</string>
     <string name="action_choose_age">나이</string>
     <string name="action_choose_gender">성별</string>
-    <string name="action_choose_sex_orientation">성적 지향</string>
+    <string name="action_choose_sex_orientation">만남의 목적</string>
     <string name="action_grant_access">액세스 권한 부여</string>
     <string name="action_grant_access_success">액세스 권한 부여</string>
 
@@ -830,9 +830,9 @@
     <string name="register_screen_3_title">나이</string>
     <string name="register_screen_3_subtitle">나이를 지정하십시오.</string>
 
-    <string name="register_screen_4_msg">성별과 성적 취향을 지정합니다.</string>
-    <string name="register_screen_4_title">성별 및 성적 취향</string>
-    <string name="register_screen_4_subtitle">성별 및 성적 취향 지정</string>
+    <string name="register_screen_4_msg">만남의 목적을 지정합니다.</string>
+    <string name="register_screen_4_title">만남의 목적</string>
+    <string name="register_screen_4_subtitle">만남의 목적</string>
 
     <string name="register_screen_5_title">핫게임과 주변</string>
     <string name="register_screen_5_subtitle">일부 기능에 액세스하려면 앱에서 내 위치 사용 권한이 필요합니다.</string>
@@ -899,7 +899,7 @@
 
     <string name="title_activity_balance_history">잔액 내역</string>
     <string name="settings_view_balance_history">잔액 내역</string>
-    <string name="settings_view_balance">균형</string>
+    <string name="settings_view_balance">발란스</string>
 
     <string name="label_payments_credits_stripe">Stripe로 크레딧 구매하기</string>
     <string name="label_payments_credits_android">Android 인앱 구매로 크레딧 구매</string>
@@ -1014,7 +1014,7 @@
     <string name="settings_night_mode" translatable="false">야간 모드</string>
 
     <string name="settings_language" translatable="false">lng_언어</string>
-    <string name="language_default" translatable="false">기본값(영어)</string>
+    <string name="language_default" translatable="false">기본값(한글)</string>
 
     <string name="title_select_language">언어 선택</string>
     <string name="settings_language_label">언어</string>
